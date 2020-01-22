@@ -172,14 +172,16 @@ Right now, there are 6 groups of accounts. Some of them have better descriptions
 ### The Future
 
 I hope first that people just think this is useful and fun.
-•	.Next Maybes
-•	More Character Groups
-•	More Sub OUs (Make it more Real)
-•	More Default Service Accounts (Make it more Real)
-•	Bad Privileged Account Management Switch (Make it more Real)
-o	This would be to put some characters into Account Operators, Backup Operators, Domain Admin, Enterprise Admin and Schema groups so that if you assess the deployment you may find some interesting users that maybe shouldn’t be in those groups (May use just random values)
-•	Someday for Penetration Testing I will pull some breach data and use that to make some User Accounts with real passwords out in the wild so the deployment will become weaker with real user passwords being used.
-•	Who Knows, Thoughts?
+
+### Next Maybes
+
+- More Character Groups
+- More Sub OUs (Make it more Real)
+- More Default Service Accounts (Make it more Real)
+- Bad Privileged Account Management Switch (Make it more Real)
+  - This would be to put some characters into Account Operators, Backup Operators, Domain Admin, Enterprise Admin and Schema groups so that if you assess the deployment you may find some interesting users that maybe shouldn’t be in those groups (May use just random values)
+- Someday for Penetration Testing I will pull some breach data and use that to make some User Accounts with real passwords out in the wild so the deployment will become weaker with real user passwords being used.
+- Who Knows, Thoughts?
 
 ### Contributing
 
