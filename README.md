@@ -1,5 +1,7 @@
 # NerdyADLab
 
+## 1,951 Characters and Counting
+
 ## First off GitHub Noob Alert
 
 This is my first go at this and I will try my best to figure it out. First off thanks to Carl Webster, Martin Zugec and Guy Leech for their help with the PowerShell help. I have had this idea for a while, but as I was working on my books AD deployment, I wanted it to be more fun so I made this detour to try and do what I could to help out others.
