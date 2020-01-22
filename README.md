@@ -169,13 +169,18 @@ This is where there are some generic accounts again mocked up. Just keep adding 
 
 Right now, there are 6 groups of accounts. Some of them have better descriptions and others based on what dataset I could pull in. This is where if you want to edit something or add another character group please contribute and submit the 5 columns. Just use the “Help-Us” worksheet and enter the Full Name, First Name, Middle, Last Name, Username and the Description for the user and submit it for an enhancement and we will get the file updated.
 
+### Quick Video of Adding some Charecters
+(/_images/AddUserAccounts-Default.gif)
+
+All you need to do is select each worksheet Select column G and you can use CTRL\Command + Shift + Down Arrow to Select all non-empty cells and copy and paste them into your PowerShell prompt.  Repeat this process for whichever charecter sets you want.
+
 ### The Future
 
 I hope first that people just think this is useful and fun.
 
 ### Next Maybes
 
-- More Character Groups
+- More Character Groups (20 Charecter Account Name Limit)
 - More Sub OUs (Make it more Real)
 - More Default Service Accounts (Make it more Real)
 - Bad Privileged Account Management Switch (Make it more Real)
